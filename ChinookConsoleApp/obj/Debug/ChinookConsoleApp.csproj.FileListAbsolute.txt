@@ -1,0 +1,9 @@
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\obj\Debug\ChinookConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\bin\Debug\ChinookConsoleApp.exe.config
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\bin\Debug\ChinookConsoleApp.exe
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\bin\Debug\ChinookConsoleApp.pdb
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\bin\Debug\Dapper.dll
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\bin\Debug\Dapper.xml
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\obj\Debug\ChinookConsoleApp.exe
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\obj\Debug\ChinookConsoleApp.pdb
+C:\Users\aarons\workspace\csharp\exercise\ChinookConsole\ChinookConsoleApp\obj\Debug\ChinookConsoleApp.csprojResolveAssemblyReference.cache
